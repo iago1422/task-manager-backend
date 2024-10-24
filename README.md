@@ -13,7 +13,7 @@ Este é o backend de uma aplicação de gerenciamento de tarefas construída com
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/task-manager-backend.git
+   git clone https://github.com/iago1422/task-manager-backend.git
    cd task-manager-backend
    ```
 
@@ -110,10 +110,3 @@ Se preferir, você pode rodar a aplicação usando Docker:
    ```
 
 ---
-
-## Conclusão
-
-Com isso, você tem:
-
-1. **Testes unitários e de integração** configurados e rodando com Jest.
-2. **README.md** bem estruturado, detalhando o setup do projeto, endpoints, testes e até a execução com Docker.
